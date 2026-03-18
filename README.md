@@ -1,5 +1,5 @@
 # 🛠️ Craft Simulator
-
+(trying to get more download options!)
 A simple but addictive crafting simulator made in Python.
 
 ## 🎮 Features
