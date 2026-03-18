@@ -15,5 +15,5 @@ A simple but addictive crafting simulator made in Python.
 ## ▶️ How to Play
 
 ### Option 1 (Python installed)
-```bash
+```bash (in terminal)
 python main.py
